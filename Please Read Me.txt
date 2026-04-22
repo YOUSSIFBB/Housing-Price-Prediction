@@ -1,0 +1,15 @@
+Name : Youssef 
+Student number : x2052561 
+
+I had to delete some of the data set rows for the email calssification data set, the links below will direct you to where i got the data sets. 
+
+
+Links: 
+
+Email dataset
+
+https://www.kaggle.com/datasets/imdeepmind/preprocessed-trec-2007-public-corpus-dataset 
+
+Housing dataset
+
+https://www.kaggle.com/datasets/ericpierce/austinhousingprices
